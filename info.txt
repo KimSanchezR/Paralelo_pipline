@@ -1,4 +1,7 @@
-npx cypress run --record --key 8e6c32ee-f8ff-4c6a-adb7-4a48322046ad
+npx cypress run --record --key 8e6c32ee-f8ff-4c6a-adb7-4a48322046ad 
+    (En los pasos del test en jenkins se pone que sea por git con la copia del link del repositorio 
+     por consola windows 1 npm install para que instale los paquetes que tiene el gitignore node_modules y 2 esta clave que dieron aqui)
+
 npx cypress run --record --key 8e6c32ee-f8ff-4c6a-adb7-4a48322046ad
 
 En .gitignore se pone todo lo que se necesite ignorar subir 
